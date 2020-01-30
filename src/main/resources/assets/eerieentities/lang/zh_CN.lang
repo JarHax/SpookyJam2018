@@ -1,0 +1,11 @@
+#Entities
+entity.eerieentities.wisp.name=鬼火
+entity.eerieentities.pumpkin_slime.name=南瓜史莱姆
+entity.eerieentities.nether_knight.name=下界骑士
+entity.eerieentities.cursed_armor.name=被诅咒的盔甲
+
+#Misc
+itemGroup.eerieentities=Eerie Entities
+
+#Items
+item.eerieentities.nether.shield.name=下界盾
